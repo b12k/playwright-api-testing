@@ -1,0 +1,4 @@
+{
+  "*": ["pnpm _prettier -w"],
+  "*.ts": ["pnpm _eslint --fix"]
+}
